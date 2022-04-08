@@ -1,0 +1,19 @@
+.pokemonImage {
+    height: 200px;
+    width: 200px;
+    margin: 10px 0;
+}
+.pokemonImg {
+    height: 100%;
+    width: 100%;
+}
+.pokeProps {
+    margin: 5px;
+    font-family: "Comic Sans MS", serif;
+}
+.button {
+    margin: 10px;
+}
+.name {
+    font-family: "Comic Sans MS", serif;
+}

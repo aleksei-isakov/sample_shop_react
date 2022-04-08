@@ -1,0 +1,9 @@
+.myButton {
+    border: 1px solid teal;
+    margin: 5px;
+    width: 169px;
+    height: 30px;
+    cursor: pointer;
+}
+
+

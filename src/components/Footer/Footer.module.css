@@ -1,0 +1,14 @@
+.Footer {
+    background-color: teal;
+    text-align: center;
+    width: 100%;
+    margin-top: auto;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    position: sticky;
+    padding: 5px 0;
+}
+.footerPar {
+    color: wheat;
+    padding: 5px 0 10px 0;
+}
